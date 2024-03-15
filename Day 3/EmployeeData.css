@@ -1,0 +1,8 @@
+.action-icons{
+    display: flex;
+}
+.action-icons img{
+    width: 30px;
+    margin-right: 10px;
+    cursor: pointer;
+}
