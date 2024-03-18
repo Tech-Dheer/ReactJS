@@ -1,0 +1,25 @@
+{
+    "emps": [
+      {
+        "empno": 101,
+        "empname": "Sujay",
+        "job": "Developer",
+        "sal": 30000,
+        "deptno": 10
+      },
+      {
+        "empno": 102,
+        "empname": "Rahul",
+        "job": "Tester",
+        "sal": 20000,
+        "deptno": 20
+      },
+      {
+        "empno": 103,
+        "empname": "Rohini",
+        "job": "HR",
+        "sal": 23000,
+        "deptno": 30
+      }
+    ]
+  }

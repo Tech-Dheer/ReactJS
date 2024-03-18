@@ -1,0 +1,29 @@
+{
+  "depts": [
+    {
+      "deptno": 10,
+      "dname": "Accounts",
+      "loc": "Hyd"
+    },
+    {
+      "deptno": 20,
+      "dname": "Sales",
+      "loc": "Pune"
+    },
+    {
+      "deptno": 30,
+      "dname": "Marketing",
+      "loc": "Goa"
+    },
+    {
+      "deptno": "40",
+      "dname": "Testing",
+      "loc": "Delhi"
+    },
+    {
+      "deptno": "50",
+      "dname": "Finance",
+      "loc": "Chennai"
+    }
+  ]
+}
